@@ -8,3 +8,4 @@ Jinja2
 gunicorn
 requests
 pymysql
+mysql-connector-python
